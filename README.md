@@ -1,7 +1,5 @@
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
-#Global AI Hub tarafından sunulmuş Python Bootcamp ekip projesidir. 
+
+Global AI Hub tarafından sunulmuş Python Bootcamp ekip projesidir. 
 
 Proje kapsamında, bir öğrenci not sistemi oluşturulmuştur;
 
