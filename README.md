@@ -1,5 +1,8 @@
-<span style="color: green"> Some green text </span>
-Global AI Hub tarafından sunulmuş Python Bootcamp ekip projesidir. 
+
+#Global AI Hub tarafından sunulmuş Python Bootcamp ekip projesidir. 
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
 
 Proje kapsamında, bir öğrenci not sistemi oluşturulmuştur;
 
