@@ -8,6 +8,7 @@ Proje1 kapsamında, bir öğrenci not sistemi oluşturulmuştur;
 Dersi geçtikleri takdirde "GEÇTİ" ; kaldıklarında ise "KALDI" yazısı ekranda gözükür.
 Dersten geçenleri ve geçemeyenleri gösteren bir DataFrame oluşturulmuş olup Excel tablosuna dönüştürülmüştür. 
 
+
 Proje2 kapsamında,
 
 Kaggle platformu üzerinden 584 veri çekilmiştir. 
