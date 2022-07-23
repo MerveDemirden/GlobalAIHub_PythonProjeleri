@@ -9,6 +9,7 @@ Dersi geçtikleri takdirde "GEÇTİ" ; kaldıklarında ise "KALDI" yazısı ekra
 Dersten geçenleri ve geçemeyenleri gösteren bir DataFrame oluşturulmuş olup Excel tablosuna dönüştürülmüştür. 
 
 Proje2 kapsamında,
+
 Kaggle platformu üzerinden 584 veri çekilmiştir. 
 Netflix filmleri ve IMDB puanları incelenerek Python programlama dili ile veri analizi yapılmıştır. 
 Analizler sonucunda veri görselleştrimeye başvurularak yorumlanmıştır. 
