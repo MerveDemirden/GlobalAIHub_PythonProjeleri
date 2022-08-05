@@ -1,3 +1,4 @@
+![netflix-statistics-and-facts](https://user-images.githubusercontent.com/74743028/183217420-1225ab02-8e0c-4b6e-8398-2a7f90811cee.jpg)
 
 Global AI Hub tarafından sunulmuş Python Bootcamp ekip projesidir. 
 
